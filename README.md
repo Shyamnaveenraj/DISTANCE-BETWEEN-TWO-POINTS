@@ -10,6 +10,7 @@ Substitute the values in the distance formula  ![formula](/formula.jpg)
 ### Step 4:assign a value to the math.sqrt 
 ### Step 5:print the program 
 ### PROGRAM:
+~~~ python
 #Program to find the distance between two points.
 #Developed by:jeswanth 
 #RegisterNumber:21001768
@@ -18,7 +19,7 @@ y1,y2=6,2
 import math
 value=math.sqrt((x2-x1)**2+(y2-y1)**2)
 print("{:.2f}".format(value))
-  
+  ~~~
 
 
 ### OUTPUT:
